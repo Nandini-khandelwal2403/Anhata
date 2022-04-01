@@ -1,0 +1,19 @@
+.boxwrap{
+ 
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+
+}
+.box4{
+ border-style:ridge;
+ border-width: 1px;
+ border-color: firebrick;
+ text-align: center;
+ cursor: pointer;
+}
+.b4{
+height: 10rem;
+width: 10rem;
+padding-top: 20px;
+}

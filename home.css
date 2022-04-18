@@ -326,7 +326,7 @@ padding-top: 20px;
   float: left;
 }
 .n11{
-  min-height: 760px;
+  min-height: 500px;
   display: flex;
   flex-flow: column nowrap;
   width: auto;
@@ -525,4 +525,29 @@ margin-right: 20px; */
 .n1i{
   width: 360px;
   margin-right: 25px;
+}
+
+.block4{
+  /* background-image: url(https://cdn.pixabay.com/photo/2020/08/22/12/42/teamwork-5508359__340.png) ; */
+  margin-left: -15%;
+  background-repeat: no-repeat;
+  width: 2000px;
+  min-height: 700px;
+}
+#ee{
+  background-color: #007bff;
+  width: 200px;
+  height: 55px;
+  font-size: 20px;
+  color: white;
+  
+}
+.bb{
+  margin: 50px;
+}
+.aa{
+  background-color: red;
+  width: 40%;
+  margin-left: -50px;
+  margin-top: 10%;
 }

@@ -529,10 +529,8 @@ margin-right: 20px; */
 
 .block4{
   /* background-image: url(https://cdn.pixabay.com/photo/2020/08/22/12/42/teamwork-5508359__340.png) ; */
-  margin-left: -15%;
+  margin-left: -45%;
   background-repeat: no-repeat;
-  width: 2000px;
-  min-height: 700px;
 }
 #ee{
   background-color: #007bff;
@@ -545,9 +543,34 @@ margin-right: 20px; */
 .bb{
   margin: 50px;
 }
-.aa{
-  background-color: red;
-  width: 40%;
+.seclast{
+  background-color: white;
+  width: 200%;
   margin-left: -50px;
-  margin-top: 10%;
+  margin-top: 20%;
+
+}
+.seclast{
+  padding: 50px;
+  margin-top: -105%;
+  margin-left: 100%;
+  position: relative;
+  width: 500px;
+}
+.secpara{
+  font-size: 20px;
+}
+.h1{
+  font-size: 30px;
+}
+#more{
+  background-color: #007bff;
+  height: 60px;
+  width: 250px;
+  font-size: 18px;
+  color: white;
+
+}
+.h1{
+  
 }
